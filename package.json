@@ -53,7 +53,7 @@
     "tslint": "^3.4.0",
     "typescript": "next",
     "typings": "^0.8.1",
-    "zone.js": "^0.6.12"
+    "zone.js": "^0.6.17"
   },
   "peerDependencies": {
     "@ngrx/core": "^1.0.0",
